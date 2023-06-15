@@ -1,32 +1,31 @@
 # sunphp-web
 
-#### Description
-sunphp文档
+## Introduction
+[sunphp](https://gitee.com/bluestear/sunphp) is a support for multiple users, multiple platforms, application development framework. Its fundamental purpose is to achieve the rapid development of public accounts, small programs, H5, APP, no need for developers to repeat the wheel! Empower every developer!
 
-#### Software Architecture
-Software architecture description
+## Technical support
+vue management background, thinkphp6 multi-application mode development, installation environment requirements: PHP7.4+Mysql (recommended 5.7) +Nginx/Apache
 
-#### Installation
+## Function support
+Built-in commonly used wechat Pay, Alipay pay, file upload, seven cows cloud storage, Ali Cloud OSS, Tencent Cloud COS, wechat login, Ali Cloud SMS, Tencent cloud SMS, email sending and other functions, developers only need to view the /app/demo/controller directory examples, comparison can be used!
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## Compatible support
+The module created in the /addons/ directory serves as the compatibility function and supports compatible running of the Engine 2.0 module. (However ** not recommended for new application development **)
 
-#### Instructions
+## Environmental requirements
+Installation environment requirements: PHP7.4+Mysql (recommended 5.7) +Nginx/Apache
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+## Installation steps
+1. Download [install.php](https://bluestear.gitee.io/sunphp-web/install.html)file to the web sitethe root directory
+2. Cancel the php7.4 disable function -- exec
+3. Access https:// your domain name /install.php to install the system
+4. Configure the password of the database and admin background as prompted
+5. Add the configuration at the end of the server file /etc/ssh/ssh_config
+<br/>
+Include /www/wwwroot/sunphp.git/*.conf
 
 
-#### Gitee Feature
+## Gitee Feature
 
 1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
 2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
