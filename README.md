@@ -3,6 +3,10 @@
 ## 介绍
 [sunphp](https://gitee.com/bluestear/sunphp) 是一个支持多用户，多平台，多应用的开发框架！其根本目的是实现快速开发公众号、小程序、H5、APP，无需开发者重复造轮子！为每一位开发者赋能！
 
+## 官方文档
+[sunphp官方文档](https://bluestear.gitee.io/sunphp-web)
+
+
 ## 技术支持
 采用vue管理后台、thinkphp6多应用模式开发，安装环境要求：PHP7.4+Mysql（推荐5.7）+Nginx/Apache
 
