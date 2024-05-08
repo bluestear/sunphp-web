@@ -4,7 +4,10 @@
 [sunphp](https://gitee.com/bluestear/sunphp) 是一个支持多用户，多平台，多应用的开发框架！其根本目的是实现快速开发公众号、小程序、H5、APP，无需开发者重复造轮子！为每一位开发者赋能！
 
 ## 官方文档
-[sunphp官方文档](https://bluestear.gitee.io/sunphp-web)
+[sunphp官方文档](https://bluestear.github.io/sunphp-web)
+
+备用文档地址1[sunphp官方文档](https://www.sunphp.cn/sunphp-web)
+备用文档地址2[sunphp官方文档](https://bluestear.gitee.io/sunphp-web)
 
 
 ## 技术支持
@@ -20,7 +23,12 @@
 安装环境要求：PHP7.4+Mysql（推荐5.7）+Nginx/Apache
 
 ## 安装步骤
-1. 下载[install.php](https://bluestear.gitee.io/sunphp-web/install.html)文件到网站根目录
+1. 下载[install.php](https://bluestear.github.io/sunphp-web/install.html)文件到网站根目录
+
+备用下载地址1[install.php](https://www.sunphp.cn/sunphp-web/install.html)
+备用下载地址2[install.php](https://bluestear.gitee.io/sunphp-web/install.html)
+
+
 2. 取消php7.4禁用函数——exec
 3. 访问https://您的域名/install.php安装本系统
 4. 根据提示配置您的数据库、管理后台admin密码

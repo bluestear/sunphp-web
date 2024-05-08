@@ -4,7 +4,10 @@
 [sunphp](https://gitee.com/bluestear/sunphp) is a support for multiple users, multiple platforms, application development framework. Its fundamental purpose is to achieve the rapid development of public accounts, small programs, H5, APP, no need for developers to repeat the wheel! Empower every developer!
 
 ## Official documentation
-[sunphp official documentation](https://bluestear.gitee.io/sunphp-web)
+[sunphp official documentation](https://bluestear.github.io/sunphp-web)
+
+alternate documentation address1[sunphp官方文档](https://www.sunphp.cn/sunphp-web)
+alternate documentation address2[sunphp官方文档](https://bluestear.gitee.io/sunphp-web)
 
 
 ## Technical support
@@ -20,7 +23,11 @@ The module created in the /addons/ directory serves as the compatibility functio
 Installation environment requirements: PHP7.4+Mysql (recommended 5.7) +Nginx/Apache
 
 ## Installation steps
-1. Download [install.php](https://bluestear.gitee.io/sunphp-web/install.html)file to the web sitethe root directory
+1. Download [install.php](https://bluestear.github.io/sunphp-web/install.html)file to the web sitethe root directory
+
+alternate download address1[install.php](https://www.sunphp.cn/sunphp-web/install.html)
+alternate download address2[install.php](https://bluestear.gitee.io/sunphp-web/install.html)
+
 2. Cancel the php7.4 disable function -- exec
 3. Access https:// your domain name /install.php to install the system
 4. Configure the password of the database and admin background as prompted
