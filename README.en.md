@@ -7,6 +7,7 @@
 [sunphp official documentation](https://bluestear.github.io/sunphp-web)
 
 alternate documentation address1[sunphp官方文档](https://www.sunphp.cn/sunphp-web)
+<br/>
 alternate documentation address2[sunphp官方文档](https://bluestear.gitee.io/sunphp-web)
 
 
@@ -26,6 +27,7 @@ Installation environment requirements: PHP7.4+Mysql (recommended 5.7) +Nginx/Apa
 1. Download [install.php](https://bluestear.github.io/sunphp-web/install.html)file to the web sitethe root directory
 
 alternate download address1[install.php](https://www.sunphp.cn/sunphp-web/install.html)
+<br/>
 alternate download address2[install.php](https://bluestear.gitee.io/sunphp-web/install.html)
 
 2. Cancel the php7.4 disable function -- exec

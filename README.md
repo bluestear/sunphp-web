@@ -7,6 +7,7 @@
 [sunphp官方文档](https://bluestear.github.io/sunphp-web)
 
 备用文档地址1[sunphp官方文档](https://www.sunphp.cn/sunphp-web)
+<br/>
 备用文档地址2[sunphp官方文档](https://bluestear.gitee.io/sunphp-web)
 
 
@@ -26,6 +27,7 @@
 1. 下载[install.php](https://bluestear.github.io/sunphp-web/install.html)文件到网站根目录
 
 备用下载地址1[install.php](https://www.sunphp.cn/sunphp-web/install.html)
+<br/>
 备用下载地址2[install.php](https://bluestear.gitee.io/sunphp-web/install.html)
 
 
